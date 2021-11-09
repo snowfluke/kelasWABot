@@ -1,0 +1,72 @@
+[
+	{
+		"nim": "1231234",
+		"fullName": "John Doe",
+		"contact": {
+			"whatsapp": "1231234512",
+			"email": "johndoe@gmail.com"
+		},
+		"firstName": "John",
+		"middleName": "Doe",
+		"lastName": "",
+		"complete": true,
+		"data": {
+			"birth": "Jakarta, 01 Januari 2021",
+			"address": "Cengkareng",
+			"diseaseHistory": "Asma",
+			"favDrink": "Es Kenapa Muda",
+			"favFood": "Bakso",
+			"favAnimal": "Kupu-kupu",
+			"favColor": "Merah",
+			"favWatch": "You're Apple in My Eyes",
+			"favMusic": "SlipKnot",
+			"alergy": "Susu sapi",
+			"weight": "55",
+			"height": "180",
+			"hobby": "Memancing",
+			"favSport": "Berenang",
+			"oneWord": "Selamanya",
+			"motto": "Jangan pernah menyerah",
+			"favFigure": "Soekarno",
+			"favBook": "Seirei Gensouki",
+			"future": "Membuat restoran",
+			"regret": "Boros uang",
+			"message": "Halo teman-teman sekelas, mari berteman"
+		}
+	},
+	{
+		"nim": "12321312",
+		"fullName": "Laura El Doe",
+		"contact": {
+			"whatsapp": "12312312",
+			"email": "lauradoe@gmail.com"
+		},
+		"firstName": "Laura",
+		"middleName": "El",
+		"lastName": "Doe",
+		"complete": true,
+		"data": {
+			"birth": "Purbalingga, 30 Desember 2021",
+			"address": "Jl. maju terus Rt. 06/19",
+			"diseaseHistory": false,
+			"favDrink": false,
+			"favFood": false,
+			"favAnimal": "Kucing",
+			"favColor": "Biru",
+			"favWatch": false,
+			"favMusic": "Jaipong",
+			"alergy": false,
+			"weight": "35",
+			"height": "162",
+			"hobby": false,
+			"favSport": "Bulu tangkis",
+			"oneWord": "Kemajuan",
+			"motto": "Terus maju pantang mundur",
+			"favFigure": "Ayah",
+			"favBook": false,
+			"future": "Bekerja seadanya lalu menikah",
+			"regret": "Berharap lebih",
+			"message": "Jangan nyontek kalau lagi ujian!"
+		}
+	}
+]

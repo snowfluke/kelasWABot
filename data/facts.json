@@ -1,0 +1,82 @@
+{
+	"birth": {
+		"pretext": "lahir di",
+		"posttext": "Catat dan siapkan kejutan!"
+	},
+	"diseaseHistory": {
+		"pretext": "memiliki riwayat penyakit",
+		"posttext": "Hati-hati dalam memilih makanan/minuman dan beraktivitas, kita doakan semoga sehat selalu. Aamiin."
+	},
+	"favDrink": {
+		"pretext": "suka meminum",
+		"posttext": "Barangkali ada yang ingin mentraktir."
+	},
+	"favFood": {
+		"pretext": "sangat menyukai makanan berupa",
+		"posttext": "Catat kalau ingin mengajaknya makan."
+	},
+	"favAnimal": {
+		"pretext": "hewan favoritnya adalah",
+		"posttext": "Bisa ditebak kepribadiannya."
+	},
+	"favColor": {
+		"pretext": "menaruh perhatian ke warna",
+		"posttext": "Kenapa ya?"
+	},
+	"favWatch": {
+		"pretext": "tontonan favoritnya adalah",
+		"posttext": "Ayok ajak nonton bareng."
+	},
+	"favMusic": {
+		"pretext": "pandai bermusik",
+		"posttext": "Waktu dan tempat dipersilahkan untuk menunjukkan penampilannya."
+	},
+	"alergy": {
+		"pretext": "punya alergi",
+		"posttext": "Hati-hati ya kalau mau mentraktir."
+	},
+	"weight": {
+		"pretext": "beratnya",
+		"posttext": "Bener nggak nih?"
+	},
+	"height": {
+		"pretext": "berpendapat kalau tingginya itu",
+		"posttext": "Coba jelaskan kenapa demikian."
+	},
+	"hobby": {
+		"pretext": "ternyata punya hobi",
+		"posttext": "Adakah yang hobinya sama?"
+	},
+	"favSport": {
+		"pretext": "suka sekali dengan olahraga",
+		"posttext": "Bagus, tetap aktif dan sehat selalu."
+	},
+	"oneWord": {
+		"pretext": "jika digambarkan dengan satu kata, maka kata yang tepat adalah",
+		"posttext": "Coba gambarkan dia dengan satu kata, rekan-rekan."
+	},
+	"motto": {
+		"pretext": "punya motto hidup",
+		"posttext": "Lanjutkan!! Hidup harus bermotto"
+	},
+	"favFigure": {
+		"pretext": "ternyata diam-diam mengidolakan",
+		"posttext": "Semoga bisa bertemu dengannya suatu hari nanti"
+	},
+	"favBook": {
+		"pretext": "buku favoritnya adalah",
+		"posttext": "Membaca adalah jendela dunia!"
+	},
+	"future": {
+		"pretext": "di masa depan ingin",
+		"posttext": "Semoga bisa terwujud dan diberi kelancaran selalu. Aamiin."
+	},
+	"regret": {
+		"pretext": "ternyata punya penyesalan",
+		"posttext": "Tetap maju dan jadikan sebagai pelajaran hidup!"
+	},
+	"message": {
+		"pretext": "mempunyai pesan untuk rekan-rekan semuanya:",
+		"posttext": "Terima kasih banyak atas pesannya!"
+	}
+}

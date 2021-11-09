@@ -1,0 +1,64 @@
+[
+	{
+		"day": "Senin",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "3",
+				"name": "Belajar membuat bot",
+				"lecturer": "John Doe, S.Lorem"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "3",
+				"name": "Eksplorasi API whatsapp",
+				"lecturer": "Laura Doe, S.Ipsum"
+			}
+		]
+	},
+	{
+		"day": "Selasa",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "3",
+				"name": "Mengenal variable",
+				"lecturer": "John Doe 2, M.Lorem"
+			}
+		]
+	},
+	{
+		"day": "Rabu",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "3",
+				"name": "Dasar-dasar JS",
+				"lecturer": "Laura, M.Dolor"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "3",
+				"name": "Manajemen server discord",
+				"lecturer": "Ben doe, M.Sit"
+			}
+		]
+	},
+	{
+		"day": "Kamis",
+		"meet": [
+			{
+				"time": ["08.00", "09.30"],
+				"sks": "3",
+				"name": "Mengenal Pepe si Kodok",
+				"lecturer": "Profesor Pepe, M.eme"
+			},
+			{
+				"time": ["09.45", "11.15"],
+				"sks": "3",
+				"name": "Konsep stalking",
+				"lecturer": "Kurasa Takada, M.buh"
+			}
+		]
+	}
+]

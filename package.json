@@ -1,0 +1,18 @@
+{
+	"name": "KelasWA-Bot",
+	"description": "Bot Whatsapp penunjang kelas",
+	"version": "1.0.0",
+	"author": "Awal Ariansyah",
+	"main": "main.js",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"@open-wa/wa-automate": "^4.23.7",
+		"axios": "^0.24.0",
+		"cherio": "^1.0.0-rc.2",
+		"cron": "^1.8.2",
+		"expression-calculator": "^1.0.8",
+		"fs": "^0.0.1-security",
+		"wikijs": "^6.3.2"
+	}
+}

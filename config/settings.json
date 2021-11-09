@@ -1,0 +1,34 @@
+{
+	"botPrefix": ".",
+	"campusName": "Universitas Bot Whatsapp",
+	"classGroupName": "Nama Group WA",
+	"classGroupId": "ID Group WA",
+	"className": "Teknik Informatika",
+	"classCode": "TI",
+	"classSemester": "Abadi",
+	"classCategory": "A",
+	"classTeacher": "Awal Ariansyah, S.arkas, M.ager",
+	"nomicsAPI": {
+		"endpoint": "https://api.nomics.com/v1/currencies/ticker?",
+		"key": "key=[API key dari nomics disini]&"
+	},
+	"libretranslateAPI": {
+		"endpoint": "https://translate.argosopentech.com/translate"
+	},
+	"wikiAPI": {
+		"endpoint": "https://id.wikipedia.org/w/api.php"
+	},
+	"youtubeDownloader": {
+		"endpoint": "https://api.fastfrom.com/download"
+	},
+	"youtubeMp3": {
+		"endpoint": "https://www.yt-download.org/api/button/mp3/"
+	},
+	"cuttly": {
+		"endpoint": "http://cutt.ly/api/api.php?",
+		"key": "key=[API key dari cuttly disini]&"
+	},
+	"kbbi": {
+		"endpoint": "https://kateglo.com/api.php"
+	}
+}
