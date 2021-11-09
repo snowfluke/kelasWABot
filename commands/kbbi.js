@@ -3,7 +3,7 @@ const { kbbi } = require("../config/settings.json");
 
 module.exports = {
 	name: "kbbi",
-	syntax: "kbbi",
+	syntax: "kbbi <kata*>",
 	description: "Mencari kata di KBBI",
 	async execute(bot, message, args) {
 		try {
