@@ -1,6 +1,6 @@
 # kelasWABot v1.0.0
 🇮🇩 Bot Whatsapp penunjang aktivitas kelas. Bot ini diciptakan agar grup kelas di Whatsapp tidak sebatas spam stiker saja (untung saya tidak gabung grup WA kelas).
-Bot ini merupakan versi Whatsapp dari Alel (discord) karena teman-teman sekelas habitatnya lebih memilih Whatsapp, dengan codebase dan design pattern yang tidak jauh berbeda dari Alel.
+Bot ini merupakan versi Whatsapp dari Alel (bot discord) karena teman-teman sekelas habitatnya lebih memilih Whatsapp, dengan codebase dan design pattern yang tidak jauh berbeda dari Alel.
 
 # Fitur
 
@@ -111,7 +111,7 @@ crons.js
 # Instalasi
 Prasyarat keperluan:
 1. Node.js v.17.0.0
-2. No Whatsapp (jangan gunakan no utama)
+2. No Whatsapp (jangan gunakan no utama), bisa masukkan ke dalam grup kelas
 3. Heroku CLI
 4. Akun Heroku, bisa mendaftar di heroku.com
 
