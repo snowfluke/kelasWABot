@@ -1,4 +1,4 @@
-# kelasWABot v1.0.0
+# KelasWABot v1.0.0
 🇮🇩 Bot Whatsapp penunjang aktivitas kelas. Bot ini diciptakan agar grup kelas di Whatsapp tidak sebatas spam stiker saja (untung saya tidak gabung grup WA kelas).
 Bot ini merupakan versi Whatsapp dari Alel (bot discord) karena teman-teman sekelas habitatnya lebih memilih Whatsapp, dengan codebase dan design pattern yang tidak jauh berbeda dari Alel.
 
@@ -114,13 +114,15 @@ Prasyarat keperluan:
 2. No Whatsapp (jangan gunakan no utama), bisa masukkan ke dalam grup kelas
 3. Heroku CLI
 4. Akun Heroku, bisa mendaftar di heroku.com
+5. GIT
+6. NPM/Yarn
 
 ## Jalankan lokal untuk mendapatkan classGroupId
 1. Pastikan Node.js sudah terinstall dengan versi 17.0.0
 2. Download repositori ini atau clone, kemudian extract
 3. Masuk ke folder lalu buka menggunakan cmd
 4. Ketikkan `yarn install` atau `npm install`
-5. Jalankan dengan `yarn stat` atau `node main.js`
+5. Jalankan dengan `node main.js`
 6. Scan QR untuk mendapatkan sesi
 7. Catat **classGroupId** yang keluar lalu salin ke settings.json
 8. Test bot dengan mengirim pesan ke No Whatsapp tersebut
@@ -148,8 +150,10 @@ git push heroku master
 # Demo
 https://www.youtube.com/watch?v=JzfA-vYm7ZQ&t=40s
 
-# Tutorial Instalasi Video
-Menyusul
+# Video Tutorial Instalasi
+Catatan: Di video terdapat kekurangan file yaitu `Procfile`, namun sudah saya tambahkan disini
+
+https://youtu.be/pabPvAV-XiU
 
 # Fitur yang akan datang
 Dikarenakan kesibukan author, maka terdapat fitur yang belum diimplementasikan seperti
