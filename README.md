@@ -42,8 +42,8 @@ Pengaturan utama terdapat pada folder `config/settings.json`, ubah dan sesuaikan
 Silakan isi sesuai data kelas, untuk keperluan API key bisa mendaftar lalu masukkan ke pengaturan. `classGroupId` bisa diisi setelah dijalankan di local.
 
 ### API yang perlu key
-1. nomics.com
-2. cutt.ly
+1. https://nomics.com
+2. https://cutt.ly
 
 settings.json
 ```json
@@ -146,7 +146,7 @@ git push heroku master
 9. Ingat cryptic-dawn-48835 hanyalah contoh nama proyek, silakan sesuaikan dengan yang kalian buat di heroku create
 
 # Demo
-Menyusul
+https://www.youtube.com/watch?v=JzfA-vYm7ZQ&t=40s
 
 # Tutorial Instalasi Video
 Menyusul
