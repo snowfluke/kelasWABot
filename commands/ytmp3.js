@@ -42,7 +42,7 @@ module.exports = {
 
 			let $ = await cherio.load(data, null, false);
 			let raw = $("a");
-			let baseUrl = raw["0"].attribs.href.split("320");
+			let baseUrl = raw["0"].attribs.href.split("/320/");
 			let mp3 = raw
 				.text()
 				.replace(/\n/g, "")
@@ -62,7 +62,7 @@ module.exports = {
 			for (let file of mp3) {
 				ytmp3Text += `\n[${file.resolution}kbps]\nUkuran: ${
 					file.size
-				}\nLink: ${baseUrl.join(file.resolution)}\n`;
+				}\nLink: ${baseUrl.join('/'+file.resolution+'/')}\n`;
 			}
 
 			ytmp3Text += `\n_API by yt-download.org_\n_Powered by KelasWA-Bot_`;
